@@ -44,19 +44,18 @@ The notebook includes:
 
 | Metric | ARIMA | SARIMA | Prophet | LSTM |
 |--------|-------|--------|---------|------|
-| RMSE   | 178.84 |
-| MAE    | 147.07 |
-| MAPE   | 3.41 |
+| RMSE   | 178.84 | 157.2 | 370.78 | 195.44 |
+| MAE    | 147.07 | 132.29 | 349.14 | 163.86 |
+| MAPE   | 3.41 | 3.08 | 8.33 | 3.82 |
 
 ---
-
 ## Key Highlights
 
 - End-to-end pipeline: From raw data to model comparison  
 - Clean visualizations: Trends, ACF/PACF, seasonality  
 - Deep Learning (LSTM) with 3D input and normalization  
 - Clear evaluation with RMSE, MAE, MAPE  
-- Ideal as a **portfolio project** for AI/Data Science interviews
+- **portfolio project**
 
 ---
 
