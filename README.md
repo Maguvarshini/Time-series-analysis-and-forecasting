@@ -1,4 +1,4 @@
-# Stock Market Forecasting using Time Series & Deep Learning
+# Time series Analysis and Forecasting for Stock market
 
 This project involves analyzing and forecasting **Tata Consultancy Services (TCS)** stock prices using classical time series models and deep learning.
 
