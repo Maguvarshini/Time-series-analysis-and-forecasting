@@ -44,11 +44,9 @@ The notebook includes:
 
 | Metric | ARIMA | SARIMA | Prophet | LSTM |
 |--------|-------|--------|---------|------|
-| RMSE   | *Fill from notebook* |
-| MAE    | *Fill from notebook* |
-| MAPE   | *Fill from notebook* |
-
-> Replace values from the last metric comparison cell.
+| RMSE   | 178.84 |
+| MAE    | 147.07 |
+| MAPE   | 3.41 |
 
 ---
 
@@ -62,19 +60,14 @@ The notebook includes:
 
 ---
 
-## Author
-
-**Maghvarshini M**  
+HI I'm **Maghvarshini M**  
  B.Tech – AI & Data Science  
  St. Joseph’s Institute of Technology  
  *"Learning and building one model at a time 💫"*
 
 ---
 
-## File to Run
-
-- `Time series analysis and forecasting for stock market.ipynb`  
-  Run this Jupyter notebook to see everything: data, models, plots, forecasts, and comparison.
+  Run the Jupyter notebook to see everything: data, models, plots, forecasts, and comparison.
 
 ---
 
