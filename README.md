@@ -54,11 +54,11 @@ The notebook includes:
 
 ## Key Highlights
 
-- ✅ End-to-end pipeline: From raw data to model comparison  
-- 📊 Clean visualizations: Trends, ACF/PACF, seasonality  
-- 🤖 Deep Learning (LSTM) with 3D input and normalization  
-- 🧠 Clear evaluation with RMSE, MAE, MAPE  
-- 🧪 Ideal as a **portfolio project** for AI/Data Science interviews
+- End-to-end pipeline: From raw data to model comparison  
+- Clean visualizations: Trends, ACF/PACF, seasonality  
+- Deep Learning (LSTM) with 3D input and normalization  
+- Clear evaluation with RMSE, MAE, MAPE  
+- Ideal as a **portfolio project** for AI/Data Science interviews
 
 ---
 
