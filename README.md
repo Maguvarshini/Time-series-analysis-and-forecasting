@@ -60,11 +60,11 @@ The notebook includes:
 ---
 
 Project Done by :
- **Maguvarshini M 
-   Shalvi Atul Surve
-   Ch.Bhuvana Sri
-   Siddhika Lolage
-   Khushi Garg
+ **Maguvarshini M ,
+   Shalvi Atul Surve ,
+   Ch.Bhuvana Sri ,
+   Siddhika Lolage ,
+   Khushi Garg ,
    Manoj H M**
 
 ---
