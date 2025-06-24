@@ -59,10 +59,13 @@ The notebook includes:
 
 ---
 
-HI I'm **Maghvarshini M**  
- B.Tech – AI & Data Science  
- St. Joseph’s Institute of Technology  
- *"Learning and building one model at a time 💫"*
+Project Done by :
+ **Maguvarshini M 
+   Shalvi Atul Surve
+   Ch.Bhuvana Sri
+   Siddhika Lolage
+   Khushi Garg
+   Manoj H M**
 
 ---
 
@@ -70,7 +73,7 @@ HI I'm **Maghvarshini M**
 
 ---
 
-## Feedback & Contributions
+## Feedback
 
-If you liked this project or have suggestions, feel free to ⭐ the repo and connect with me on [LinkedIn]([https://www.linkedin.com/in/maguvarshinim/])!
+If you liked this project or have suggestions, feel free to ⭐ the repo !
 
