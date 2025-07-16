@@ -60,13 +60,7 @@ The notebook includes:
 ---
 
 Project Done by :
- **Maguvarshini M ,
-   Shalvi Atul Surve ,
-   Ch.Bhuvana Sri ,
-   Siddhika Lolage ,
-   Khushi Garg ,
-   Manoj H M**
-
+ **Maguvarshini M**
 ---
 
   Run the Jupyter notebook to see everything: data, models, plots, forecasts, and comparison.
